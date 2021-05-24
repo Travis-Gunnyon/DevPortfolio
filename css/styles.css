@@ -92,7 +92,7 @@ header li {
 
 header a {
 	display: block;
-	color: #3498db;
+	color: #2020ab;
 	padding: 10px
 }
 
@@ -474,7 +474,7 @@ footer {
 
 #education {
 	padding: 50px 15px 20px 15px;
-	border-bottom: 1px solid #dcd9d9;
+	border-bottom: 1px solid #2020ab;
 	text-align: center
 }
 
