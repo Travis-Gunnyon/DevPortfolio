@@ -22,7 +22,7 @@ body.active {
 }
 
 .no-js #experience-timeline>div {
-	background: #3498db;
+	background: #2020ab;
 	padding: 10px;
 	margin-bottom: 10px;
 	border: 1px solid #dcd9d9
@@ -127,7 +127,7 @@ header.sticky {
 	position: fixed;
 	right: 15px;
 	top: 10px;
-	color: #3498db;
+	color: #2020ab;
 	font-size: 1.5em;
 	z-index: 20;
 	padding: 0 7px;
@@ -144,7 +144,7 @@ header.sticky {
 	padding-right: 15px;
 	padding-top: 10px;
 	cursor: pointer;
-	color: #3498db
+	color: #2020ab
 }
 
 #mobile-menu-close span {
@@ -210,7 +210,7 @@ footer {
 }
 
 .social a:hover {
-	color: #3498db
+	color: #2020ab
 }
 
 .btn-rounded-white {
@@ -392,7 +392,7 @@ footer {
 	right: auto;
 	height: 100%;
 	width: 3px;
-	background: #3498db;
+	background: #2020ab;
 	z-index: 0
 }
 
@@ -402,7 +402,7 @@ footer {
 	width: 3px;
 	height: 40px;
 	background: #d6d6d6;
-	background: linear-gradient(to bottom, #3498db, rgba(214, 214, 214, 0));
+	background: linear-gradient(to bottom, #2020ab, rgba(214, 214, 214, 0));
 	top: 100%;
 	left: 303px
 }
@@ -410,7 +410,7 @@ footer {
 .vtimeline-content {
 	margin-left: 350px;
 	background: #fff;
-	border: 1px solid #3498db;
+	border: 1px solid #2020ab;
 	padding: 15px;
 	border-radius: 3px;
 	text-align: left
