@@ -166,7 +166,7 @@ footer {
 
 .copyright p {
 	margin: 0;
-	color: #74808a
+	color: #bfbfbf
 }
 
 .top {
@@ -205,12 +205,12 @@ footer {
 
 .social a {
 	display: block;
-	color: #74808a;
+	color: #bfbfbf;
 	padding: 10px
 }
 
 .social a:hover {
-	color: #2020ab
+	color: #000000
 }
 
 .btn-rounded-white {
