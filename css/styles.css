@@ -449,7 +449,7 @@ footer {
 	color: #2020ab;
 	width: 50px;
 	height: 50px;
-	background: #2020ab;
+	background: transparent;
 	border-radius: 50%;
 	float: left;
 	z-index: 99;
@@ -469,7 +469,7 @@ footer {
 	left: 0;
 	top: 10px;
 	font-weight: 300;
-	color: #374054
+	color: #fff
 }
 
 #education {
