@@ -688,7 +688,7 @@ footer {
 .optional-section {
 	padding: 50px 15px;
 	text-align: center;
-	border-top: 1px solid #dcd9d9
+	border-top: 1px solid #2020ab
 }
 
 .optional-section h2 {
@@ -699,7 +699,7 @@ footer {
 	max-width: 700px;
 	margin: 0 auto 30px auto;
 	padding: 15px;
-	border: 1px solid #dcd9d9;
+	border: 1px solid #2020ab;
 	background: #fff;
 	text-align: left
 }
