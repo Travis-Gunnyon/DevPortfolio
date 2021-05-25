@@ -538,7 +538,7 @@ footer {
 	max-width: 900px;
 	margin: 0 auto 30px auto;
 	overflow: hidden;
-	background: #fff;
+	background: #303030;
 	border-radius: 4px
 }
 
@@ -557,12 +557,12 @@ footer {
 .project-info h3 {
 	font-size: 1.5em;
 	font-weight: 300;
-	color: #374054;
+	color: #bfbfbf;
 	margin: 0 0 15px 0
 }
 
 .project-info p {
-	color: #74808a;
+	color: #bfbfbf;
 	margin: 0 0 15px 0;
 	font-size: 0.9em
 }
