@@ -92,19 +92,19 @@ header li {
 
 header a {
 	display: block;
-	color: #2020ab;
+	color: #000000;
 	padding: 10px
 }
 
 header a:hover {
-	color: #2020ab;
+	color: #000000;
 	text-decoration: none;
 	background: #eee;
 	border-radius: 4px
 }
 
 header a:focus {
-	color: #2020ab;
+	color: #000000;
 	text-decoration: none
 }
 
