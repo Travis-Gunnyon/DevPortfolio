@@ -92,14 +92,14 @@ header li {
 
 header a {
 	display: block;
-	color: #fff;
+	color: #bfbfbf;
 	padding: 10px
 }
 
 header a:hover {
 	color: #000000;
 	text-decoration: none;
-	background: #eee;
+	background: #bfbfbf;
 	border-radius: 4px
 }
 
