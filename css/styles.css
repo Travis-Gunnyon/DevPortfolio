@@ -640,7 +640,7 @@ footer {
 
 #contact-form input::-webkit-input-placeholder,
 #contact-form textarea::-webkit-input-placeholder {
-	color: #000000
+	color: #bfbfbf
 }
 
 #contact-form input:-moz-placeholder,
