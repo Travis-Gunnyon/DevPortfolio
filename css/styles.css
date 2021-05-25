@@ -479,7 +479,7 @@ footer {
 }
 
 #education h2 {
-	color: #374054;
+	color: #bfbfbf;
 	margin-bottom: 50px
 }
 
@@ -499,12 +499,12 @@ footer {
 }
 
 .education-block span {
-	color: #74808a;
+	color: #bfbfbf;
 	float: right
 }
 
 .education-block h4 {
-	color: #74808a;
+	color: #bfbfbf;
 	clear: both;
 	font-weight: 500;
 	margin: 0 0 15px 0
@@ -513,7 +513,7 @@ footer {
 .education-block p,
 .education-block ul {
 	margin: 0;
-	color: #74808a;
+	color: #bfbfbf;
 	font-size: 0.9em
 }
 
