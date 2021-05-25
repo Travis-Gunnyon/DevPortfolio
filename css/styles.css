@@ -487,6 +487,7 @@ footer {
 	max-width: 700px;
 	margin: 0 auto 30px auto;
 	padding: 15px;
+	background: #6b6b6b;
 	border: 1px solid #2020ab;
 	text-align: left
 }
