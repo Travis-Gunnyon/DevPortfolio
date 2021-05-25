@@ -634,13 +634,13 @@ footer {
 	border: none;
 	margin-bottom: 10px;
 	background: #303030;
-	color: #ff0000;
+	color: #bfbfbf;
 	transition: .5s ease all
 }
 
 #contact-form input::-webkit-input-placeholder,
 #contact-form textarea::-webkit-input-placeholder {
-	color: #bfbfbf
+	color: #ff0000
 }
 
 #contact-form input:-moz-placeholder,
@@ -663,7 +663,7 @@ footer {
 #contact-form input:focus,
 #contact-form textarea:focus {
 	outline: none;
-	background: #b5b5b5
+	background: #454545
 }
 
 #contact-form textarea {
